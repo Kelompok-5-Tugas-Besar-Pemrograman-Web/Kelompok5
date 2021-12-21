@@ -8,7 +8,7 @@
 			<div class="panel panel-default">
 				<div class="panel-body not-found">
 					<h1>404</h1>
-					<h2>Maaf,Halaman tidak ditemukan</h2>
+					<h2>Maaf, Halaman Yang Anda Tuju Tidak Ada! T.T</h2>
 				</div>
 			</div>
 		</div>
