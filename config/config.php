@@ -1,2 +1,2 @@
 <?php
-$base_url = 'http://localhost/kelompok5-main/'; //URL utama website
+$base_url = 'http://localhost/Kelompok5-a/'; //URL utama website
